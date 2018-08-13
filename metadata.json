@@ -1,0 +1,15 @@
+{
+  "name": "nk-role",
+  "version": "0.1.0",
+  "author": "nk",
+  "summary": "This is a role module",
+  "license": "Apache-2.0",
+  "source": "git@github.com:adonyec1/nk-role.git",
+  "project_page": "https://github.com/adonyec1/nk-role",
+  "issues_url": "https://github.com/adonyec1/nk-role/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
